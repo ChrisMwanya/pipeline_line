@@ -1,0 +1,21 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisMwanya/pipeline_line.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisMwanya/pipeline_line/issues"
+  },
+  "homepage": "https://github.com/ChrisMwanya/pipeline_line#readme"
+}
